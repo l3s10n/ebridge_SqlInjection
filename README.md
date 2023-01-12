@@ -70,7 +70,7 @@ public List<WxMpFollowerInviteModel> loadFollowerInvites(String fromuser, String
 
 # EXP
 
-见本仓库的exp.py，使用方式是配置exp.py为目标的信息以及要执行的sql语句，执行exp.py，exp.py会打印sql语句执行的结果。
+见本仓库的exp.py，使用方式是配置exp.py中目标的信息以及要执行的sql语句，执行exp.py，exp.py会打印sql语句执行的结果。
 
 演示中使用的exp就是这里的exp
 
