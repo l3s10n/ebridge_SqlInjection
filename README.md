@@ -1,6 +1,6 @@
 # 概述
 
-由于WxMpFollowerInviteController控制器sql语句的执行方式不当，在登录泛微云桥之后，可以进行sql注入。
+由于WxMpFollowerInviteController中sql语句的执行方式不当，在登录泛微云桥之后，可以进行sql注入。
 
 # 影响版本
 
